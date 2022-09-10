@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    background-color:whitesmoke
+}
+html {
+    scroll-behavior: smooth;
+  }
+
+.navbar {
+    background-color:grey
+}
+.navbar li{
+
+    text-decoration: none; 
+    display: inline-block;
+    padding: 20px 20px;
+    font-size: 22px;
+    color: whitesmoke;
+
+}
+/* .navbar a{
+    color:orange;
+    font-size: 20px;
+    text-decoration: none;
+} */
+.Foodlist{
+    padding-left: 20px;
+}
+/* .Foodlist li{
+    list-style-type: none;
+} */
+.Foodlist a{
+    color:black;
+    font-size: 15px;
+    text-decoration: none; 
+}
+.menuitem-1{
+    text-align: center;
+}
+.menuitem-2{
+    text-align: center;
+}
+.menuitem-3{
+    text-align: center;
+}
+.menuitem-4{
+    text-align: center;
+}
+.menuitem-5{
+    text-align: center;
+}
+.item1{
+    height:400px;
+    width:400px;
+}
+.item2{
+    height:400px;
+    width:400px;
+}
+.item3{
+    height:400px;
+    width:400px;
+}
+.item4{
+    height:400px;
+    width:400px;
+}
+.item5{
+    height:400px;
+    width:400px;
+}
